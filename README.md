@@ -19,6 +19,10 @@ Mon CV :
       justify-content: center; /* Centre les images horizontalement */
       gap: 20px;               /* Ajoute un espace entre les images */
     }
+
+    article {
+        background-color : gray;
+    }
     </style>
 
 ## Mes compétences informatiques
@@ -48,7 +52,7 @@ Développeur 3D d'expériences immersives
 
 # Mes projets personnels
 
-
+<article>
 ## BuildTech (2024)
 
 Description : Build Tech est un projet inspiré du jeu TerraTech, un jeu 3D où l'on peut créer son propre véhicule et se déplacer avec.
@@ -70,6 +74,7 @@ Création d'un environnement stylizé avec shaders customisés
 <img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="250"/>
 <img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="250"/>
 </div>
+</article>
 
 ## SAO VR (2023)
 
