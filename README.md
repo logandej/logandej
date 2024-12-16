@@ -92,7 +92,7 @@ J'ai recréé une majeur partie de cette séquence pour fêter cette date.
 <img src="docs/img/sao/sao6.png" alt="sao6" width="250"/>
 </div>
 
-
+<iframe width="300" height="150" src="https://www.youtube.com/embed/fGN0K9fc83w?si=qQpCEULJWilS8KhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
