@@ -4,6 +4,10 @@ Salut ! Je suis développeur de jeux vidéo et adore ça !
 Contactez-moi : logan.dejesus1@gmail.com
 
 Vous trouverez tous mes projets réalisés, persos ou réalisés au travail
+
+Mon CV : 
+[CV-DeJesusLogan.pdf](https://github.com/user-attachments/files/18157330/CV-DeJesusLogan.pdf)
+
 <!--
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
