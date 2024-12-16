@@ -26,14 +26,37 @@ Mon CV :
 |                       | Développement Mobile                          | MAUI                                                   |
 |                       | Conteneurisation                              | Docker                                                 |
 
-##  Mes expériences Professionnelles
- 2022-2025
+#  Mes expériences Professionnelles
+2022-2025 Cnam Paca Toulon 
+<img src="docs/img/cnampaca.jpg" alt="Cnam paca" width="200"/>
 
 Développeur 3D d'expériences immersives
 
-# Title
-## Title 2
-### Title 3
+### Title 3 
+
+
+# Mes projets personnels
+
+## BuildTech
+
+Description : Build Tech est un projet inspiré du jeu TerraTech, un jeu 3D où l'on peut créer son propre véhicule et se déplacer avec.
+A la différence du jeu original, j'ai implémenté le multijoueur avec l'outil Photon Fusion
+
+#### Infos
+Moteur : Unity
+Multijoueur (Outil : Photon Fusion)
+
+#### Développement Compétences
+Programmation Multijoueur
+Système création bac à sable
+Gestion de la physique de véhicules
+Création d'un environnement stylizé avec shaders customisés
+
+<img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="100"/>
+<img src="docs/img/buildtech/buildtech2.png" alt="buildtech2" width="100"/>
+<img src="docs/img/buildtech/buildtech3.png" alt="buildtech3" width="100"/>
+
+
 
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 
