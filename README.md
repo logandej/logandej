@@ -1,9 +1,11 @@
 ## Logan De Jésus 🐉
-Salut ! Je suis développeur de jeux vidéo et adore ça !
+Salut ! Je suis développeur de jeux vidéo et j'adore ça !
 
 Contactez-moi : logan.dejesus1@gmail.com
 
 Vous trouverez tous mes projets réalisés, persos ou réalisés au travail
+
+<i>[Work in progress]</i>
 
 Mon CV : 
 [Téléchargement pdf](docs/pdf/CV-DeJesusLogan.pdf)
