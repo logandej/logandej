@@ -13,11 +13,10 @@ Mon CV :
 </a>
 
  <style>
-    /* Conteneur pour aligner les images horizontalement */
     .image-container {
-      display: flex;           /* Active l'affichage en ligne */
-      justify-content: center; /* Centre les images horizontalement */
-      gap: 20px;               /* Ajoute un espace entre les images */
+      display: flex;           
+      justify-content: center; 
+      gap: 20px;               
     }
 
 
