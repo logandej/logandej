@@ -49,13 +49,14 @@ Développeur 3D d'expériences immersives
 # Mes projets personnels
 
 
-## BuildTech
+## BuildTech (2024)
 
 Description : Build Tech est un projet inspiré du jeu TerraTech, un jeu 3D où l'on peut créer son propre véhicule et se déplacer avec.
 A la différence du jeu original, j'ai implémenté le multijoueur avec l'outil Photon Fusion
 
 #### Infos
 Moteur : Unity
+Jouabilité : Clavier Souris
 Multijoueur (Outil : Photon Fusion)
 
 #### Développement Compétences
@@ -65,11 +66,35 @@ Gestion de la physique de véhicules
 Création d'un environnement stylizé avec shaders customisés
 
 <div class="image-container">
-<img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="300"/>
-<img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="300"/>
-<img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="300"/>
+<img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="250"/>
+<img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="250"/>
+<img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="250"/>
 </div>
 
+## SAO VR (2023)
+
+Description : J'ai recréé en VR une scène iconique de l'animé Sword Art Online se déroulant le 24 décembre 2023.
+J'ai recréé une majeur partie de cette séquence pour fêter cette date.
+
+#### Infos
+Moteur : Unity
+Jouabilité : VR
+
+#### Développement Compétences
+Programmation VR
+Cinématique (Outil Timeline Unity)
+Recréation d'environnement existants
+Gestion du corps VR (Animation Rigging)
+Programmation de l'UI de SAO
+
+
+<div class="image-container">
+<img src="docs/img/sao/sao1.png" alt="sao1" width="250"/>
+<img src="docs/img/sao/sao2.png" alt="sao2" width="250"/>
+<img src="docs/img/sao/sao3.png" alt="sao3" width="250"/>
+<img src="docs/img/sao/sao4.png" alt="sao4" width="250"/>
+<img src="docs/img/sao/sao5.png" alt="sao5" width="250"/>
+</div>
 
 
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
