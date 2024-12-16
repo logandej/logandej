@@ -12,15 +12,8 @@ Mon CV :
   <img src="docs/img/CV%20Logan.png" alt="Aperçu du CV de Logan" width="400"/>
 </a>
 
- <style>
-    .image-container {
-      display: flex;           
-      justify-content: center; 
-      gap: 20px;               
-    }
+<link rel="stylesheet" href="docs/styles.css">
 
-
-</style>
 
 ## Mes compétences informatiques
 
@@ -96,6 +89,7 @@ Programmation de l'UI de SAO
 <img src="docs/img/sao/sao3.png" alt="sao3" width="250"/>
 <img src="docs/img/sao/sao4.png" alt="sao4" width="250"/>
 <img src="docs/img/sao/sao5.png" alt="sao5" width="250"/>
+<img src="docs/img/sao/sao6.png" alt="sao6" width="250"/>
 </div>
 
 
