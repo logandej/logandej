@@ -49,15 +49,15 @@ Description : Build Tech est un projet inspiré du jeu TerraTech, un jeu 3D où 
 A la différence du jeu original, j'ai implémenté le multijoueur avec l'outil Photon Fusion
 
 #### Infos
-Moteur : Unity
-Jouabilité : Clavier Souris
-Multijoueur (Outil : Photon Fusion)
+- Moteur : Unity
+- Jouabilité : Clavier Souris
+- Multijoueur (Outil : Photon Fusion)
 
 #### Développement Compétences
-Programmation Multijoueur
-Système création bac à sable
-Gestion de la physique de véhicules
-Création d'un environnement stylizé avec shaders customisés
+- Programmation Multijoueur
+- Système création bac à sable
+- Gestion de la physique de véhicules
+- Création d'un environnement stylizé avec shaders customisés
 
 <div class="image-container">
 <img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="250"/>
@@ -72,15 +72,15 @@ Description : J'ai recréé en VR une scène iconique de l'animé Sword Art Onli
 J'ai recréé une majeur partie de cette séquence pour fêter cette date.
 
 #### Infos
-Moteur : Unity
-Jouabilité : VR
+- Moteur : Unity
+- Jouabilité : VR
 
 #### Développement Compétences
-Programmation VR
-Cinématique (Outil Timeline Unity)
-Recréation d'environnement existants
-Gestion du corps VR (Animation Rigging)
-Programmation de l'UI de SAO
+- Programmation VR
+- Cinématique (Outil Timeline Unity)
+- Recréation d'environnement existants
+- Gestion du corps VR (Animation Rigging)
+- Programmation de l'UI de SAO
 
 
 <div class="image-container">
