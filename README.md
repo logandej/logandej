@@ -49,6 +49,7 @@ Développeur 3D d'expériences immersives
 # Mes projets personnels
 
 <article>
+
 ## BuildTech (2024)
 
 Description : Build Tech est un projet inspiré du jeu TerraTech, un jeu 3D où l'on peut créer son propre véhicule et se déplacer avec.
