@@ -26,6 +26,15 @@ Mon CV :
 |                       | Développement Mobile                          | MAUI                                                   |
 |                       | Conteneurisation                              | Docker                                                 |
 
+##  Mes expériences Professionnelles
+ 2022-2025
+
+Développeur 3D d'expériences immersives
+
+# Title
+## Title 2
+### Title 3
+
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
