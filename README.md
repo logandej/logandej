@@ -26,10 +26,8 @@ Mon CV :
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Ombre subtile */
     }
 
-    article {
-        border: 2px solid #ccc;
-    }
-    </style>
+
+</style>
 
 ## Mes compétences informatiques
 
