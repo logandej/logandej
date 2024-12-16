@@ -12,6 +12,15 @@ Mon CV :
   <img src="docs/img/CV%20Logan.png" alt="Aperçu du CV de Logan" width="400"/>
 </a>
 
+ <style>
+    /* Conteneur pour aligner les images horizontalement */
+    .image-container {
+      display: flex;           /* Active l'affichage en ligne */
+      justify-content: center; /* Centre les images horizontalement */
+      gap: 10px;               /* Ajoute un espace entre les images */
+    }
+    </style>
+
 ## Mes compétences informatiques
 
 | **Catégorie**        | **Détails**                                     | **Compétences**                                         |
@@ -28,7 +37,7 @@ Mon CV :
 
 #  Mes expériences Professionnelles
 2022-2025 Cnam Paca Toulon 
-<img src="docs/img/cnampaca.jpg" alt="Cnam paca" width="200"/>
+<img src="docs/img/cnampaca.jpg" alt="Cnam paca" width="200" padding="10"/>
 
 Développeur 3D d'expériences immersives
 
@@ -52,9 +61,11 @@ Système création bac à sable
 Gestion de la physique de véhicules
 Création d'un environnement stylizé avec shaders customisés
 
+<div class="image-container">
 <img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="100"/>
-<img src="docs/img/buildtech/buildtech2.png" alt="buildtech2" width="100"/>
-<img src="docs/img/buildtech/buildtech3.png" alt="buildtech3" width="100"/>
+<img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="100"/>
+<img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="100"/>
+</div>
 
 
 
