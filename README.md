@@ -16,7 +16,7 @@ Mon CV :
 
 | **Catégorie**        | **Détails**                                     | **Compétences**                                         |
 |-----------------------|------------------------------------------------|--------------------------------------------------------|
-| **Jeux Vidéo**       | Développement de jeux                          | Unity, Unreal Engine, C#                               |
+| **Jeux Vidéo**       | Développement de jeux                          | Unity, C# \|  Unreal Engine, BluePrint                               |
 |                       | Modélisation 3D                               | Blender                                                |
 |                       | Méthodologies                                 | POO (Programmation Orientée Objet), COO, UML           |
 | **Développement Web** | Frontend                                      | HTML, CSS, JavaScript, Ajax                            |
