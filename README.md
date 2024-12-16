@@ -9,6 +9,10 @@ Mon CV :
 [CV-DeJesusLogan.pdf![CV Logan](docs/img/CV%20Logan.png)
 ](docs/pdf/CV-DeJesusLogan)
 
+<a href="docs/pdf/CV-DeJesusLogan.pdf">
+  <img src="docs/img/CV%20Logan.png" alt="Aperçu du CV de Logan" width="300"/>
+</a>
+
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
