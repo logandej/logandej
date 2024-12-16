@@ -20,12 +20,6 @@ Mon CV :
       gap: 20px;               /* Ajoute un espace entre les images */
     }
 
-    .image-container img {
-        border: 2px solid #ccc;
-        border-radius: 8px; /* Coins arrondis */
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Ombre subtile */
-    }
-
 
 </style>
 
