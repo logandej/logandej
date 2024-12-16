@@ -12,6 +12,20 @@ Mon CV :
   <img src="docs/img/CV%20Logan.png" alt="Aperçu du CV de Logan" width="400"/>
 </a>
 
+## Mes compétences informatiques
+
+| **Catégorie**        | **Détails**                                     | **Compétences**                                         |
+|-----------------------|------------------------------------------------|--------------------------------------------------------|
+| **Jeux Vidéo**       | Développement de jeux                          | Unity, Unreal Engine, C#                               |
+|                       | Modélisation 3D                               | Blender                                                |
+|                       | Méthodologies                                 | POO (Programmation Orientée Objet), COO, UML           |
+| **Développement Web** | Frontend                                      | HTML, CSS, JavaScript, Ajax                            |
+|                       | Backend                                       | PHP, SQL, Relation Client-Serveur                     |
+| **Langages Divers**   | Langages de programmation                     | Java, Python, C                                        |
+|                       | Graphisme 3D                                  | OpenGL                                                 |
+|                       | Développement Mobile                          | MAUI                                                   |
+|                       | Conteneurisation                              | Docker                                                 |
+
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
