@@ -1,5 +1,9 @@
 ## Logan De Jésus 🐉
+Salut ! Je suis développeur de jeux vidéo et adore ça !
 
+Contactez-moi : logan.dejesus1@gmail.com
+
+Vous trouverez tous mes projets réalisés, persos ou réalisés au travail
 <!--
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
