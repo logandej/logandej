@@ -71,7 +71,9 @@ A la différence du jeu original, j'ai implémenté le multijoueur avec l'outil 
 <img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="250"/>
 <img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="250"/>
 </div>
+
 </article>
+<article>
 
 ## SAO VR (2023)
 
@@ -100,9 +102,14 @@ J'ai recréé une majeur partie de cette séquence pour fêter cette date.
 </div>
 
 Vidéo youtube : 
+
 <a href="https://youtu.be/fGN0K9fc83w">
-  <img src="https://img.youtube.com/vi/fGN0K9fc83w/maxresdefault.jpg" alt="Watch the video" width="100"/>
+  <img src="https://img.youtube.com/vi/fGN0K9fc83w/maxresdefault.jpg" alt="Watch the video" width="200"/>
 </a>
+
+</article>
+<article>
+
 ## Elysion (2022)
 
 Description : Projet d'étude en équipe de 3. Jeu d'aventure, d'énigme et de combat. 
@@ -136,8 +143,10 @@ Suite à une invasion étrangère, la planète Elysion subit de gros dégâts. U
 Vidéo youtube : 
 
 <a href="https://youtu.be/g8vhBJs1k8c">
-  <img src="https://img.youtube.com/vi/g8vhBJs1k8c/maxresdefault.jpg" alt="Watch the video" width="100"/>
+  <img src="https://img.youtube.com/vi/g8vhBJs1k8c/maxresdefault.jpg" alt="Watch the video" width="200"/>
 </a>
+
+</article>
 
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
