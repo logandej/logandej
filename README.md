@@ -37,7 +37,9 @@ Mon CV :
 
 #  Mes expériences Professionnelles
 2022-2025 Cnam Paca Toulon 
+<div>
 <img src="docs/img/cnampaca.jpg" alt="Cnam paca" width="200" padding="10"/>
+</div>
 
 Développeur 3D d'expériences immersives
 
@@ -46,6 +48,8 @@ Développeur 3D d'expériences immersives
 
 # Mes projets personnels
 
+<!-->BUILD TECH 
+<-->
 ## BuildTech
 
 Description : Build Tech est un projet inspiré du jeu TerraTech, un jeu 3D où l'on peut créer son propre véhicule et se déplacer avec.
@@ -62,9 +66,9 @@ Gestion de la physique de véhicules
 Création d'un environnement stylizé avec shaders customisés
 
 <div class="image-container">
-<img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="100"/>
-<img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="100"/>
-<img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="100"/>
+<img src="docs/img/buildtech/buildtech1.png" alt="buildtech1" width="200"/>
+<img src="docs/img/buildtech/buildTech2.png" alt="buildtech2" width="200"/>
+<img src="docs/img/buildtech/buildTech3.png" alt="buildtech3" width="200"/>
 </div>
 
 
