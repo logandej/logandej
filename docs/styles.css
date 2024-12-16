@@ -6,4 +6,11 @@
   
   .image-container img {
     width: 100px;
+    border-radius: 10px;     /* Coins arrondis */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Ombre subtile */
+
+  }
+
+  article{
+    background-color: green;
   }
