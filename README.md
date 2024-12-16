@@ -37,7 +37,13 @@ Mon CV :
 
 Développeur 3D d'expériences immersives
 
-### Title 3 
+- Développement Réalité Virtuelle sous Unity 3D
+- Programmation et réalisation des environnements
+- Création Expérience Multijoueur dans le métaverse Spatial.io
+- Gestion de projet et relation client
+- Animer et former aux usages des technologies immersives
+- Réalisation Vidéo et Visite 360
+- Collaborer avec équipe à l'international
 
 
 # Mes projets personnels
@@ -92,13 +98,43 @@ J'ai recréé une majeur partie de cette séquence pour fêter cette date.
 <img src="docs/img/sao/sao6.png" alt="sao6" width="250"/>
 </div>
 
-<iframe width="300" height="150" src="https://www.youtube.com/embed/fGN0K9fc83w?si=qQpCEULJWilS8KhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/fGN0K9fc83w/maxresdefault.jpg)](https://youtu.be/fGN0K9fc83w)
+
+## Elysion (2022)
+
+Description : Projet d'étude en équipe de 3. Jeu d'aventure, d'énigme et de combat. 
+
+Histoire :
+Suite à une invasion étrangère, la planète Elysion subit de gros dégâts. Une seule personne arrive à survivre et on la retrouve 15 ans plus tard. Vous incarnez un personnage soif de vengeance qui va explorer, combattre et résoudre des énigmes avec un concept inédit. Déplacer et orientez les structures qui vous entourent pour vous frayer un chemin vers la vérité.
+
+#### Infos
+- Moteur : Unity
+- Jouabilité : Clavier Souris
+
+#### Développement Compétences
+- Level Desing (outil Landscape)
+- Gestion animateurs de personnages
+- Collaboration, travail d'équipe avec Git
+- Système d'énigme/puzzle avec matrices
+- Cinématiques
+- StoryTelling
+
+
+<div class="image-container">
+<img src="docs/img/Elysion/1.png" alt="elysion1" width="250"/>
+<img src="docs/img/Elysion/2.png" alt="elysion2" width="250"/>
+<img src="docs/img/Elysion/3.png" alt="elysion3" width="250"/>
+<img src="docs/img/Elysion/4.png" alt="elysion4" width="250"/>
+<img src="docs/img/Elysion/5.png" alt="elysion5" width="250"/>
+<img src="docs/img/Elysion/6.png" alt="elysion6" width="250"/>
+
+</div>
+
+[![Watch the video](https://img.youtube.com/vi/g8vhBJs1k8c/maxresdefault.jpg)](https://youtu.be/g8vhBJs1k8c)
+
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
-
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
