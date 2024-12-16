@@ -4,12 +4,13 @@ Salut ! Je suis développeur de jeux vidéo et adore ça !
 Contactez-moi : logan.dejesus1@gmail.com
 
 Vous trouverez tous mes projets réalisés, persos ou réalisés au travail
-![image](https://github.com/user-attachments/assets/f54b88fa-dc34-4d7a-a9ef-e3a1be598580)
 
 Mon CV : 
-[CV-DeJesusLogan.pdf(https://github.com/user-attachments/assets/f54b88fa-dc34-4d7a-a9ef-e3a1be598580)](https://github.com/user-attachments/files/18157330/CV-DeJesusLogan.pdf)
+[CV-DeJesusLogan.pdf(![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
+)](https://github.com/user-attachments/files/18157330/CV-DeJesusLogan.pdf)
 
-<!--
+<!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
+
 **logandej/logandej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
