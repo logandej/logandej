@@ -6,8 +6,8 @@ Contactez-moi : logan.dejesus1@gmail.com
 Vous trouverez tous mes projets réalisés, persos ou réalisés au travail
 
 Mon CV : 
-[CV-DeJesusLogan.pdf(![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
-)](https://github.com/user-attachments/files/18157330/CV-DeJesusLogan.pdf)
+[CV-DeJesusLogan.pdf![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
+](https://github.com/user-attachments/files/18157330/CV-DeJesusLogan.pdf)
 
 <!--![CV Logan](https://github.com/user-attachments/assets/ee6ca3f7-67b6-4971-9bb2-23aa1975ab5c)
 
