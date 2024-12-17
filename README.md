@@ -5,7 +5,7 @@ Contactez-moi : logan.dejesus1@gmail.com
 
 Vous trouverez tous mes projets réalisés, persos ou réalisés au travail
 
-<i>[Work in progress]</i>
+<i>[Currently working on this page]</i>
 
 Mon CV : 
 [Téléchargement pdf](docs/pdf/CV-DeJesusLogan.pdf)
